@@ -15,6 +15,5 @@ HTML &amp; CSS
 
 ## Feito por:
 
-### Joana Santos
+Wallace Torquato
 
-### Linkedin: https://www.linkedin.com/school/aluracursos/
